@@ -1,4 +1,3 @@
 <?php
-  echo "test";
-  echo "voila voila";
+  echo "voula";
 ?>
